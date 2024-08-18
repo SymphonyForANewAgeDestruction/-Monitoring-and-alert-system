@@ -1,0 +1,11 @@
+cpu_threshold: 90
+mem_threshold: 50000000  # bytes
+disk_threshold: 1000000000  # bytes
+interval: 60  # seconds
+
+email_from: 'your-email@example.com'
+email_to: 'recipient@example.com'
+smtp_server: 'smtp.example.com'
+smtp_port: 'enter the port (without quotes)'
+smtp_user: 'your-email@example.com'
+smtp_password: 'your-email-password'
